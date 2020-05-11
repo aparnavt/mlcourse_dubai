@@ -8,6 +8,7 @@
 
 [![Slack](https://img.shields.io/badge/slack-ods.ai-green)](https://docs.google.com/forms/d/e/1FAIpQLSd5JX9NCguEe4GKHLl01oee-6019VL0hAiNrfBYWAOK0eOZ4w/viewform)
 [![Meetup.com](https://img.shields.io/badge/Meetup.com-blue)](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
+[![Youtube](https://img.shields.io/badge/Youtube-recordings-orange)](https://www.youtube.com/playlist?list=PLraBn3TuBq-_Dv7hfptCq1IhbTAivy6Gr)
 
 </div>
   
@@ -22,7 +23,7 @@ All lectures will be covered by tutors with the practical experience from Reacto
 3. Decision Trees, 08.04.2020
 4. Logistic Regression, 15.04.2020
 5. Ensembles and Random Forest 22.04.2020
-6. Linear regression and regularization 29.04.2020
+6. Logistic Regression 30.04.2020
 7. Unsupervised Learning: Principal Component Analysis and Clustering 06.04.2020
 8. Time Series Analysis with Python
 9. SGD with Vowpal Wabbit
@@ -46,12 +47,23 @@ A2. Visualization 07.04.2020
 
 A4. Linear Regression 23.04.2020
 
+A5. Kaggle competition #1 30.04.2020
+
+A6. Ensembles, bagging, Random Forest 31.04.2020
+
+A7. Kaggle competition #2 06.06.2020
+
+A8.
+
+A9. 
+
 All deadlines are 23:59 (Dubai time).
 
 ### Kaggle competitions
 
 1. [Decision Trees and KNN](https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw) **Deadline: 30.04.2020**
 
+2. [Genres classification](https://www.kaggle.com/c/mlclass-dubai-by-ods-lecture-5-hw) **Deadline: 06.06.2020**
 
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
